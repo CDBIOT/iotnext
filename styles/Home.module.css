@@ -6,6 +6,15 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.title{
+color: #fff;
+background-image: url('/banner_hexa.jpg');
+background-size: cover;
+background-position: center;
+padding: 20px;
+margin-bottom: 20px;
+}
+
 
 .description {
   display: inherit;
